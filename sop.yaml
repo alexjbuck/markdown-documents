@@ -1,0 +1,10 @@
+from: markdown
+to: pdf
+
+table-of-contents: true
+
+number-sections: true
+
+variables:
+  geometry:
+    margin=1in
